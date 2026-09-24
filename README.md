@@ -1,5 +1,3 @@
-# my-python-app
-cat << 'EOF' > README.md
 # Python CI/CD Pipeline App
 
 Учебный проект для демонстрации настройки процессов непрерывной интеграции (CI) для Python-приложения с использованием **GitHub Actions** и **Docker**.
