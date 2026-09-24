@@ -12,7 +12,6 @@
 3. **Сборка Docker-образа:** Проверка успешной упаковки приложения в контейнер.
 
 ## Запуск локально
-```bash
 docker build -t my-python-app:test .
 docker run --rm my-python-app:test
 ![](docker_run.png)
