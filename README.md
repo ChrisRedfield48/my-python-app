@@ -15,4 +15,4 @@
 ```bash
 docker build -t my-python-app:test .
 docker run --rm my-python-app:test
-![](/docker_run.png)
+![](docker_run.png)
